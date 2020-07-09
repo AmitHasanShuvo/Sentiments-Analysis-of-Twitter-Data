@@ -3,7 +3,7 @@
 Department of Computer Science & Engineering, </br>
 Rajshahi University of Engineering & Technology (RUET) </br>
 Website: https://amithasanshuvo.github.io/ </br>
-Linkedin: https://www.linkedin.com/in/kazi-amit-hasan-514443140/ </br>
+Linkedin: https://www.linkedin.com/in/kazi-amit-hasan/ </br>
 Email: kaziamithasan89@gmail.com
 # TwitterMining
 This is a data mining project which I took as my sixth semester project. A project which fetches real-time data from Twitter using credentials and analyzes the sentiments and generates a visual that represents the sentiments of a specific word/tweets. Users can submit a word and sample numbers, the UI will show the sentiment visuals
